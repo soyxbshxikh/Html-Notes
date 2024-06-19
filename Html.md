@@ -462,7 +462,7 @@ Output :-
   </head>
   <body>
         <a href="https://www.google.com">Visit google.com!</a><br>
-
+        <a href="Try.html">Try File</a><br>
         <a href="https://www.w3schools.com">
           <img src="img1.jpg" alt="img1" height="200" width="200">
         </a>
@@ -474,7 +474,7 @@ Output :-
 <dl>
   <dd> 
     <a href="https://www.google.com">Google</a><br>
-    <hr>
+    <a href="Try.html">Try File</a><br>
     <a href="https://www.w3schools.com">
       <img src="img1.jpg" alt="img1" height="200" width="200">
     </a>
